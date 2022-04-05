@@ -1,0 +1,101 @@
+* {
+ box-sizing: border-box;
+}
+
+body {
+ margin: 10px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ letter-spacing: 1px;
+ line-height: 30px;
+}
+
+.first-txt, .sec-txt {
+ height: auto;
+ width: 100%;
+ padding: 20px 10px;
+}
+
+
+h1,p {
+ color: rgb(74, 68, 68);
+}
+
+.build{
+ background-color: rgb(72, 72, 133);
+}
+
+
+button{
+color: white;
+background-color: rgb(111, 111, 241);
+border: 0;
+border-radius: 10px;
+padding: 5px 10px;
+}
+
+.img-div {
+ width: 100%;
+ height: auto;
+}
+
+.img-div div img {
+ width: 100%;
+ /* margin-bottom: 20px; */
+}
+
+.sec-txt {
+ margin-bottom: 150px;
+}
+
+#signup{
+ color: rgb(111, 111, 241);
+ background-color: white;
+ border: 2px solid rgb(111, 111, 241);
+ border-radius: 12px;
+ width: 120px;
+ text-align: center;
+ padding: 5px;
+}
+
+.phone{
+ height: auto;
+ width: 100%;
+}
+
+.phone img{
+ width: 100%;
+ margin-bottom: 30px;
+}
+
+ .domain{
+  width: 100%;
+ }
+
+.Sign{
+ border-radius: 0;
+ color: white;
+ background-color: rgb(111, 111, 241);
+ width: 100%;
+ text-align: center;
+ margin-bottom:10px ;
+
+ 
+}
+
+.contacts img{
+ display: flex;
+ background-color:white;
+ color: white;
+ margin: 0;
+ width: 50px;
+ justify-content: ;
+
+}
+
+.one{
+ color: rgb(111, 111, 241);
+}
+
+#lastpart{
+display: flex;
+}
